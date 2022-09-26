@@ -1,0 +1,70 @@
+body {
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+    display: block;
+
+}
+#main{
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+    display: block;
+
+}
+#img-div{
+    background: white;
+    padding: 10px;
+    margin: 0px;
+}
+#image{
+    max-width: 100%; /*esta linea hace que la imagen no puede exeder del cuadro*/
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#img-caption{
+    font-size: 20px;
+    text-align: center;
+    margin: 15px 0 15px 0;
+    padding: 0px;
+}
+section{
+    display: block;
+}
+#tribute-info{
+    margin: 40px 0;
+    text-align: center;
+}
+ul{
+    text-align: justify;
+    max-width: 500px;
+    margin: 0 auto 50px auto;
+}
+li{
+    margin: 16px 0;
+    font-size: 16px;
+}
+blockquote{
+    margin: 0 auto 50px auto;
+    max-width: 500px;
+    font-size: 16px;
+    text-align: left;
+}
+.informacion{
+    font-size: 20px;
+}
+h6{
+    text-align: justify;
+    max-width: 500px;
+    margin: 50px auto 0 auto;
+}
+a {
+    color: #000;
+  }
+  a:hover{
+    color: blue
+  }
